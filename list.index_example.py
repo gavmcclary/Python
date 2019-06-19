@@ -1,5 +1,3 @@
-# Henry is this what you wanted to do the other day?
-
 # Define a list
 lst = ["Eggs","Bread","Milk"]
 
@@ -18,6 +16,3 @@ if "Jam" in lst:
 	          str(lst.index("Jam")))
 else:
     print("Jam was not in the list")
-
-# Hope that helps. Gav
-
