@@ -1,7 +1,7 @@
 # What is it?
 Python code examples for use in the following sessions:
 
-Git_and_python-1-day-
+Curious about Coding
 
 ## Who is it for?
 Novice coders who need to get up to speed in Python and coding in general quickly.
